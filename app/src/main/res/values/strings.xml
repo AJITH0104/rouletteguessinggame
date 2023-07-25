@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">guessinggamep3</string>
+    <string name="info">please select a number of digit
+    The number of digits that i keep in my mind and the number of digits you choose will be the same.Also,never forget that you have 10 lives
+    </string>
+</resources>
